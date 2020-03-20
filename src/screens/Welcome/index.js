@@ -13,7 +13,7 @@ class Welcome extends Component {
   render() {
     return(
       <SafeAreaView style={styles.container}>
-        <Text>Corona</Text>
+        <Text>Corona Welcome</Text>
       </SafeAreaView>
     )
   }
